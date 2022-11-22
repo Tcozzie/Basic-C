@@ -1,5 +1,4 @@
 # Basic-C
-Basic programs that explore the functionality of C
 
 This Basic C repository explores the base level of functionality that C has to offer. These labs are from Classes taken at Montana State University
 
